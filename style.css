@@ -1,0 +1,13 @@
+
+b { color: orange;} 
+g { color: papayawhip;} 
+i { color: limegreen;} 
+#header { background: #E6CDAD opacity; 
+          height: 70px; 
+          position: fixed; 
+          width:100%;
+          text-align: center;
+          font-size: 25px;
+        font-family: cursive; opacity: 0.3;
+ } 
+body { margin: 0px} 
